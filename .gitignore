@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# State file (user-specific)
+.claude_context_tracker.json
+
+# IDE
+.vscode/
+.idea/
+
+# Distribution archives
+*.zip
+*.tar.gz
