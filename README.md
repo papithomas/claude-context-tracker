@@ -68,7 +68,7 @@ That's it. Two moves for a pulse check on conversation quality.
 
 ```bash
 # Clone the repo
-git clone https://github.com/paullytree/claude-context-tracker.git
+git clone https://github.com/papithomas/claude-context-tracker.git
 cd claude-context-tracker
 
 # Create a virtual environment and install dependencies
@@ -184,4 +184,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built by [Paul Thomas](https://github.com/paullytree). Thresholds calibrated with research from Chroma, Stanford NLP, Manus, and the AgentPatterns community.*
+*Built by [Paul Thomas](https://github.com/papithomas). Thresholds calibrated with research from Chroma, Stanford NLP, Manus, and the AgentPatterns community.*
