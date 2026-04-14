@@ -8,6 +8,15 @@ Every existing Claude tracker tells you when you'll hit your *rate limit*. This 
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
+### Context Rot Progression in Your Menu Bar
+
+| 🟢 Green (0-35%) | 🟠 Orange (35-60%) | 🟡 Yellow (60-80%) | 🔴 Red (80%+) |
+|---|---|---|---|
+| ![Green](screenshots/state-green.png) | ![Orange](screenshots/state-orange.png) | ![Yellow](screenshots/state-yellow.png) | ![Red](screenshots/state-red.png) |
+| Full quality | Mild degradation | Significant rot | Start fresh |
+
+![Dropdown Menu](screenshots/dropdown-menu.png)
+
 ---
 
 ## The Problem
