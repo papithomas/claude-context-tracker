@@ -12,10 +12,7 @@ Every existing Claude tracker tells you when you'll hit your *rate limit*. This 
 
 | 🟢 Green (0-35%) | 🟠 Orange (35-60%) | 🟡 Yellow (60-80%) | 🔴 Red (80%+) |
 |---|---|---|---|
-| ![Green](screenshots/state-green.png) | ![Orange](screenshots/state-orange.png) | ![Yellow](screenshots/state-yellow.png) | ![Red](screenshots/state-red.png) |
 | Full quality | Mild degradation | Significant rot | Start fresh |
-
-![Dropdown Menu](screenshots/dropdown-menu.png)
 
 ---
 
